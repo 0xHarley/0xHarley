@@ -13,7 +13,7 @@ Since I found out that I have no life, I let down my Medical degree, packed my b
 
 Let's take it more seriously, I'm an addicted Blue teamer who currently works as a SOC Analyst, I don't mind to spend the whole day analyzing/building attacks scenarioes, In fact the most part I love about my job is that I can read minds. 
 
-Currently working on improving my Coding/Scripting skills since one year ago, the only thing I Knew about Computer Science was how to start and shutdown my laptop.
+Currently working on improving my Coding/Scripting skills as since one year ago, the only thing I Knew about Computer Science was how to start and shutdown my laptop.
 
 Passionate about everything comes in ${{\color{blue} BLUE}}$ that's why I'm interested in Incident Response, Threat Hunting, Threat Detection, Threat Emulation and Digital Forensics, and I belivie that knowledge is POWER so I want to keep learning to above and beyond.
 
